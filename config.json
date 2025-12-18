@@ -1,13 +1,1 @@
-{
-  "version": 3,
-  "minAppVersion": "1.2.0",
-  "features": {
-    "sensorValidation": true,
-    "nightscoutSync": false
-  },
-  "refreshIntervalHours": 3,
-  "allowedSensors": [
-    "sibionics_v1",
-    "cgm_x2"
-  ]
-}
+{"tag":"RgDni\/1bYKPLMbrjXGPeVg==","issuedAt":"2025-12-18T21:25:32Z","version":2,"ciphertext":"FBxPklu+LwNLEPbUUk\/5wVWUIerLvxaY9rmsZajc1p1uLB4iBTDL8sTapVLv2Or6jJcI5owh+GgyoNCKN39+qclyBRRpUYUA8xueAXvew4zVnojQjJ2inLhgT0atpTmOwEd1wiPJ+bAJrvWL8Yh1ok+Ki\/0BKOznqAPjwPSzyUXWaNKLZFo=","nonce":"8fhoRCE0NDSRFJu2","signature":"peyxExD8K7gg5WobmFKwo+9YlT8BRDEbFzRLQHPBRDPHXvL6Us75Ysz6eITJy8Tx+sqRYZ2KT9fw6TqithaoAg=="}
